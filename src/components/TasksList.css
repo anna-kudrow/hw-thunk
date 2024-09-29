@@ -1,0 +1,13 @@
+.tasks-list {
+    list-style-type: decimal;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.task-item {
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
